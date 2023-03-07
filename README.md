@@ -1,1 +1,1 @@
-# SampleAPI
+# Swashbuckle Sample API
